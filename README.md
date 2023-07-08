@@ -24,9 +24,9 @@
   <h4> 🛠 Use Tools </h4>
   <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/notion-FFFFFF?style=flat&logo=notion&logoColor=black">
-  <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat&logo=visualstudio&logoColor=white">
-  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=notion&logoColor=black">
+  <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=visualstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
   
   <h4> 📑 Once I've Used </h4>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
