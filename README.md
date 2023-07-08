@@ -2,8 +2,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssungho&count_bg=%23D7C0AE&title_bg=%23EEE3CB&icon=&icon_color=%23FFFFFF&title=%E2%9C%8B+HELLO&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dkstjdgh98)](https://solved.ac/dkstjdgh98)
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="https://velog.io/@ash028"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="https://github.com/ssungho"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://velog.io/@ash028" target="https://velog.io/@ash028"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
+<a href="[버튼을 눌렀을 때 이동할 링크](https://github.com/ssungho)" target="https://github.com/ssungho"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="https://www.instagram.com/asho_028/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <div align="left">
