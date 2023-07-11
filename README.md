@@ -3,7 +3,6 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dkstjdgh98)](https://solved.ac/dkstjdgh98)
 
 <a href="https://velog.io/@ash028" target="https://velog.io/@ash028"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
-<a href="https://github.com/ssungho" target="https://github.com/ssungho"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.instagram.com/asho_028/" target="https://www.instagram.com/asho_028/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <div align="left">
