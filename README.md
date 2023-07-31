@@ -1,6 +1,7 @@
 ## ✨ 반가워요 ✨<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssungho&count_bg=%23D7C0AE&title_bg=%23EEE3CB&icon=&icon_color=%23FFFFFF&title=%E2%9C%8B+HELLO&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dkstjdgh98)](https://solved.ac/dkstjdgh98)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=dkstjdgh98)](https://solved.ac/dkstjdgh98)
 
 <a href="https://velog.io/@ash028" target="https://velog.io/@ash028"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
 <a href="https://www.instagram.com/asho_028/" target="https://www.instagram.com/asho_028/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
