@@ -25,5 +25,5 @@
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white"/>
 
   <h2> :star2: Awards </h2>
-  <text> 2023 한이음 ICT 멘토링 은상 </text>
+  <text> 2023 한이음 ICT 멘토링 공모전 은상 </text>
 </div>
