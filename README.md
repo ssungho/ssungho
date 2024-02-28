@@ -23,4 +23,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> 
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white"/>
+
+  <h2> :star2: Awards </h2>
+  <text> 2023 한이음 ICT 멘토링 은상 </text>
 </div>
